@@ -100,7 +100,7 @@ By the end of this project, you should be able to explain:
   ```
 - Clone the repository:
   ```bash
-  git clone https://github.com/your_repo/AirBnB_clone.git
+  git clone [https://github.com/Satson09/AirBnB_clone.git]
   cd AirBnB_clone
   ```
 
